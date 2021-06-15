@@ -9,7 +9,6 @@ import 'helper/common_widgets/validators.dart';
 import 'helper/constants/app_colors.dart';
 import 'helper/ui_helpers.dart';
 
-//enum WidgetMarker { twoText, oneText_oneMatrix, AirConditioner,Blugs }
 final _myKey = GlobalKey<FormState>();
 
 class HillCipherView extends HookWidget{
